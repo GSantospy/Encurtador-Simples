@@ -1,2 +1,2 @@
 # Encurtador-Simples
- Encurtador de url simples com python e PySide2
+ Encurtador de url simples com Python3 e PySide2
